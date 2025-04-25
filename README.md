@@ -1,21 +1,18 @@
-https://nousees.github.io/git_react/
-
-
-## Ссылка на Github Actions
+# Ссылка на Github Actions
 
 https://nousees.github.io/app_neoflex/#/home
 
-## Классический запуск
+# Классический запуск
 
-# Клонировать репозиторий
+### 1) Клонировать репозиторий
 
 git clone https://github.com/nousees/app_neoflex.git
 cd app_neoflex
 
-# Установить зависимости
+### 2) Установить зависимости
 
 flutter pub get
 
-# Запустить приложение
+### 3) Запустить приложение
 
 flutter run
